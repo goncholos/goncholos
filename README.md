@@ -1,127 +1,164 @@
+# Hi there, I'm Gonzalo Granizo 👋
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
-  </ul>
-</div>
-
-
-<!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+
+### AI & Data Enthusiast | Cloud & Backend Learner | Technology & Innovation
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+%26+Data+Professional;Python+%7C+FastAPI+%7C+AWS;Machine+Learning+%26+Cloud+Systems;Building+End-to-End+AI+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
+
 </div>
 
+---
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
+## 🚀 About Me
 
+- 💼 Corporate background with **4+ years in Tech**
+- 🤖 Transitioning into **AI, Data & Cloud Technologies**
+- 🧠 Passionate about **Machine Learning, APIs & AI Systems**
+- ☁️ Hands-on experience deploying solutions on **AWS**
+- 🔧 Building end-to-end projects with **Python + FastAPI + PostgreSQL**
+- 🌍 Based in **Barcelona, Spain**
+- 📈 Interested in **AI Engineering, Innovation & Technology Consulting**
 
-<!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+---
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+# 🛠️ Tech Stack
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+## 💻 Languages
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
-<!--Intro end-->
-
-
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,bash,postgresql" />
 </p>
 
+---
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+## ⚡ Backend & APIs
 
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi" />
 </p>
 
+- REST APIs
+- Backend Validation
+- Dynamic Query Processing
+- Exception Handling
 
-<!--profile visit count-->
+---
+
+## 🤖 AI / Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+- Scikit-learn
+- Time-Series Forecasting
+- Feature Engineering
+- Predictive Modeling
+- EDA
+- NLP Integrations
+- LLM APIs
+- Prompt Engineering
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,git,github" />
+</p>
+
+- AWS EC2
+- AWS RDS
+- SSH Administration
+- Ubuntu Server Management
+- Environment Configuration
+
+---
+
+## 📊 Data & Visualization
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+</p>
+
+- Pandas
+- Matplotlib
+- Seaborn
+- SQL
+- Data Pipelines
+
+---
+
+# 🚀 Featured Project
+
+## 🌦️ AI-Powered Weather Forecasting Platform
+
+End-to-end Machine Learning weather forecasting platform built with:
+
+- Python
+- FastAPI
+- PostgreSQL
+- AWS EC2/RDS
+- Scikit-learn
+- Hugging Face Inference API
+
+### Features
+
+✅ Time-series forecasting  
+✅ REST API architecture  
+✅ Cloud deployment on AWS  
+✅ NLP-powered weather queries  
+✅ Automated data ingestion pipelines  
+✅ Production-oriented backend workflows  
+
+🔗 **Repository:**  
+[Proyecto-AEMET](https://github.com/goncholos/Proyecto-AEMET)
+
+---
+
+# 📈 GitHub Stats
+
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=goncholos&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncholos&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
+---
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# 🔥 Contribution Activity
 
-----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
+<div align="center">
 
-Last Edited on: 29/4/2023
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=goncholos&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/gonzalo-granizo-62904764">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:gonzalo.granizo@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/goncholos">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ Building practical AI solutions one project at a time
+
+</div>
