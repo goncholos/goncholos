@@ -159,6 +159,6 @@ End-to-end Machine Learning weather forecasting platform built with:
 
 <div align="center">
 
-### ⚡ Building practical AI solutions one project at a time
+### ⚡ Building practical AI solutions
 
 </div>
